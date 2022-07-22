@@ -5,7 +5,7 @@ license = "Apache-2.0"
 authors = ["henderiw <wim.henderickx@gmail.com>"]
 edition = "2021"
 keywords = ["kubernetes", "k8s"]
-repository = "https://github.com/Arnavion/k8s-openapi"
+repository = "https://github.com/yndd-wasm/yndd-openapi"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
